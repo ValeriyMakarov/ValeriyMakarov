@@ -42,14 +42,18 @@ Python Engineer with 4+ years of experience in testing automation.
 - MS Access
 
 ## Programming Background:
-  - Python - professional, OOP, Pytest(test automation), Playwright, requests, asyncio, game development (pet projects, freelance and 2 years of professional experience) for 3 years total
-  - Java - professional, OOP, JavaFX, TestNG(test automation), Selenium (project during university studies and 2 years of professional experience) for 4 years total
+  - Python - advanced, OOP, Pytest(test automation), Playwright, requests, asyncio, game development (pet projects, freelance and 2 years of professional experience) for 3 years total
+  - Java - intermidiate, OOP, JavaFX, TestNG(test automation), Selenium (project during university studies and 2 years of professional experience) for 4 years total
+  - HTML - intermediate (freelance, during university studies and 4 years of professional experience) for 5 years total
+  - CSS - basic, selectors (freelance, during university studies and 2 years of professional experience) for 3 years total
   - C# - fundamentals, OOP, Winforms (science project and Master's thesis during university studies) for 2 years
+  - SQL - fundamentals (freelance, during university studies) for 1 year
   - C - fundamentals (during university studies) for 1 year
   - C++ - fundamentals, OOP (during university studies) for 6 months
   - Assembly - fundamentals (during university studies) for 2 months
   - Javascript - fundamentals (during university studies) for 2 months
   - PHP - fundamentals (during university studies) for 2 months
+  - MATLAB - basic (during university studies) for 2 months
 
 ## Additional information and interests
 
