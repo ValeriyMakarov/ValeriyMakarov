@@ -1,4 +1,4 @@
-# Hi, I'm Valerii 👋
+# Hi, I'm Valeriy 👋
 
 Python Engineer with 4+ years of experience in testing automation.
 
